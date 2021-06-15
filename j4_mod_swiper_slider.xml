@@ -15,7 +15,7 @@
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>dedb06d37c7a33db51e3bb2fe9fe4dc349fc6f5de266429c82e88170b200176e</sha256>
+		<sha256>0b013907797649e62bec6d8efa29a116c8b904cbe67684638f4b2aae73120a75</sha256>
 		<maintainer>Alexander Klein</maintainer>
 		<maintainerurl>https://fact-werbeagentur.de</maintainerurl>
 		<targetplatform name="joomla" version="(4\.0)" />

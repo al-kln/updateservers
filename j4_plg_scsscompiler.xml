@@ -5,6 +5,8 @@
 		<description>SCSS Compiler for Joomla! Plugin Version 3.0.0</description>
 		<element>plg_scsscompiler</element>
 		<type>plugin</type>
+		<folder>system</folder>
+		<client>0</client>
 		<version>3.0.0</version>
 		<client>site</client>
 		<infourl title="SCSS Compiler for Joomla!">https://github.com/al-kln/joomla4-plg-scsscompiler/releases/tag/3.0.0</infourl>

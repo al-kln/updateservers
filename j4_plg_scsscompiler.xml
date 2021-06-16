@@ -3,7 +3,7 @@
 	<update>
 		<name>SCSS Compiler</name>
 		<description>SCSS Compiler for Joomla! Plugin Version 3.0.0</description>
-		<element>mod_swiper_slider</element>
+		<element>plg_scsscompiler</element>
 		<type>plugin</type>
 		<version>3.0.0</version>
 		<client>site</client>

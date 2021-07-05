@@ -2,7 +2,7 @@
 <updates>
 	<update>
 		<name>SCSS Compiler</name>
-		<description>SCSS Compiler for Joomla! Plugin Version 3.0.1</description>
+		<description>SCSS Compiler for Joomla! Plugin Version 3.0.2</description>
 		<element>plg_scsscompiler</element>
 		<type>plugin</type>
 		<folder>system</folder>

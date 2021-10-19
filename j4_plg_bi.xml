@@ -3,7 +3,7 @@
 	<update>
 		<name>Bootstrap Icons</name>
 		<description>Bootstrap Icons for Joomla! Plugin Version 1.6.2</description>
-		<element>plg_bi</element>
+		<element>bi</element>
 		<type>plugin</type>
 		<folder>system</folder>
 		<version>1.6.2</version>

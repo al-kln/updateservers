@@ -2,20 +2,20 @@
 <updates>
 	<update>
 		<name>SCSS Compiler</name>
-		<description>SCSS Compiler for Joomla! Plugin Version 3.1</description>
+		<description>SCSS Compiler for Joomla! Plugin Version 3.2</description>
 		<element>plg_scsscompiler</element>
 		<type>plugin</type>
 		<folder>system</folder>
-		<version>3.1</version>
+		<version>3.2</version>
 		<client>site</client>
-		<infourl title="SCSS Compiler for Joomla!">https://github.com/al-kln/joomla4-plg-scsscompiler/releases/tag/3.1</infourl>
+		<infourl title="SCSS Compiler for Joomla!">https://github.com/al-kln/joomla4-plg-scsscompiler/releases/tag/3.2</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-plg-scsscompiler/archive/refs/tags/3.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-plg-scsscompiler/archive/refs/tags/3.2.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>d8d02bc205e3ab5cab8b03371213cc9ebad43b1081cb2254140354d636d8d841</sha256>
+		<sha256>ecf9de9ae9991d2b09efefb9a21ee667f157cbe36315f9d6adab7690970a1c74</sha256>
 		<maintainer>Alexander Klein</maintainer>
 		<maintainerurl>https://fact-werbeagentur.de</maintainerurl>
 		<targetplatform name="joomla" version="(4\.0)" />

@@ -2,20 +2,20 @@
 <updates>
 	<update>
 		<name>Bootstrap Icons</name>
-		<description>Bootstrap Icons for Joomla! Plugin Version 1.8.0</description>
+		<description>Bootstrap Icons for Joomla! Plugin Version 1.8.1</description>
 		<element>bi</element>
 		<type>plugin</type>
 		<folder>system</folder>
-		<version>1.8.0</version>
+		<version>1.8.1</version>
 		<client>site</client>
-		<infourl title="Bootstrap Icons">https://github.com/al-kln/joomla4-plg-bi/releases/tag/1.8.0</infourl>
+		<infourl title="Bootstrap Icons">https://github.com/al-kln/joomla4-plg-bi/releases/tag/1.8.1</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-plg-bi/archive/refs/tags/1.8.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-plg-bi/archive/refs/tags/1.8.1.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>f4955e09928da302d5706f5b6bbd8bd97c1b93af3c3849b9dc9b093721268eae</sha256>
+		<sha256>e70e1e0bca3d63b2de029dc9036173583fa7efe2ef2a50fa2e4df9c8e9ee55d5</sha256>
 		<maintainer>Alexander Klein</maintainer>
 		<maintainerurl>https://fact-werbeagentur.de</maintainerurl>
 		<targetplatform name="joomla" version="(4\.0)" />

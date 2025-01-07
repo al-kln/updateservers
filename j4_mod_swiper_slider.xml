@@ -2,20 +2,20 @@
 <updates>
 	<update>
 		<name>Swiper Slider</name>
-		<description>Swiper Slider for Joomla! Module Version 3.11.5</description>
+		<description>Swiper Slider for Joomla! Module Version 3.12.0</description>
 		<element>mod_swiper_slider</element>
 		<type>module</type>
-		<version>3.11.5</version>
+		<version>3.12.0</version>
 		<client>site</client>
-		<infourl title="Swiper Slider for Joomla!">https://github.com/al-kln/joomla4-mod-swiper-slider/releases/tag/3.11.5</infourl>
+		<infourl title="Swiper Slider for Joomla!">https://github.com/al-kln/joomla4-mod-swiper-slider/releases/tag/3.12.0</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-mod-swiper-slider/archive/refs/tags/3.11.5.zip</downloadurl>
-			<downloadsource type="full" format="zip">https://github.com/al-kln/joomla4-mod-swiper-slider/archive/refs/tags/3.11.5.zip</downloadsource>
+			<downloadurl type="full" format="zip">https://github.com/al-kln/joomla4-mod-swiper-slider/archive/refs/tags/3.12.0.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/al-kln/joomla4-mod-swiper-slider/archive/refs/tags/3.12.0.zip</downloadsource>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>27a3d97e19c8fca193a58d031361a8255f40a8e0d9a5b20977c87d0eeae03ea9</sha256>
+		<sha256>0d6871a42eba27492cfa47c6eec2e0bee961b1617041d5b5c086cb395b4afe2a</sha256>
 		<maintainer>Alexander Klein</maintainer>
 		<maintainerurl>https://fact-werbeagentur.de</maintainerurl>
 		<targetplatform name="joomla" version="(4\.0)" />
